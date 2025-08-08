@@ -10,7 +10,7 @@ export default function Header() {
 
   return (
     <div className="mx-auto">
-      <div className="bg-gradient-to-br from-blue-100 to-indigo-200 shadow-xl px-10 py-5 flex flex-col sm:flex-row justify-between items-center">
+      <div className="bg-gradient-to-br from-blue-100 to-indigo-200 shadow-xl px-10 py-5 flex justify-between items-center">
         <div className="flex items-center gap-2 mb-3 sm:mb-0">
           <svg
             className="w-7 h-7 text-indigo-600"
